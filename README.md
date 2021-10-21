@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis:
-Below find a summary of the PyBer ride-share data by three defined city types (urban, suburban, and rural). The chart show the Total fares by city type from 1/1/2019 to 4/29/2019.
+Below find a summary of the PyBer, ride-sharing app company, ride-share data, grouped by three defined city types (urban, suburban, and rural). The chart shows the Total fares by city type from 1/1/2019 to 4/29/2019.
 ## Results:
 1) ### Weekly total ride-share fares by city type from January, 2019 through April, 2019 (pivot dataframe)
 - ![Pivot_Table](https://user-images.githubusercontent.com/90797036/138200900-c2a6065f-69e6-4878-8115-bbd266869de3.png)
